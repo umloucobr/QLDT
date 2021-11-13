@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+/*Top Part*/
+.nav {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    background-color: #252422;
+    padding-bottom: 1.875em;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    margin: 0.875em;
+    font-size: 40px;
+    font-family: 'Staatliches', cursive;
+    color: white;
+}
+
+.text {
+    text-align: center;
+    font-size: 30px;
+}
+/*Contents*/
+.hero {
+    display: flex;
+    background-color: #252422;
+    justify-content: center;
+    padding-top: 6.75%;
+    padding-bottom: 6.75%;
+    font-size: 1.5em;
+}
+
+.hero ul {
+    text-align: center;
+}
+
+.hero p, a {
+    /*border: 2px solid white;*/
+    font-family: 'Signika', sans-serif;
+    color: #3FA34D;
+    font-size: 40px;
+}
+
+/*Footer*/
+.footer {
+    padding-top: 0.875em;
+    padding-bottom: 0.875em;
+    background-color: #9DB4C0;
+    display: flex;
+    justify-content: center;
+}
+
+.footer h6 {
+    color: black;
+}
