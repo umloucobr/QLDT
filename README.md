@@ -8,4 +8,6 @@ Porque eu não tenho dinheiro pra pagar a hospedagem da AWS👍.
 Como o site é estático, o usuário deverá atualizar as imagens/textos manualmente, por isso, o nome das fotos/textos devem ser auto-explicativos e de fácil manutenção.
 # Como contribuir?
 Leia o "howtocontribute.md.
+# Créditos
+Favicons por https://favicon.io/emoji-favicons/blue-book, e emojis do Twitter.
 
