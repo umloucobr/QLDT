@@ -10,4 +10,5 @@ Como o site é estático, o usuário deverá atualizar as imagens/textos manualm
 Leia o "howtocontribute.md.
 # Créditos
 Favicons por https://favicon.io/emoji-favicons/blue-book, e emojis do Twitter.
-
+# Atenções ao dar Fork no repositório
+Leia os comentários das páginas de HTML e troque os links.

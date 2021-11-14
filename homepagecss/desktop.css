@@ -55,6 +55,7 @@
     background-color: #9DB4C0;
     display: flex;
     justify-content: center;
+    font-size: 1.25em;
 }
 
 .footer h6 {
