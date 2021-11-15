@@ -1,7 +1,7 @@
 # QLDT
 Já ficou com duvida do que levar hoje? Estamos na C3, ou C4?
 Evite perder mais pontos do seu professor favorito, entre no site e descubra!
-https://umloucobr.github.io/QLDT
+https://umloucobr.github.io/QLDT.
 # Por que o site é estático?
 Porque eu não tenho dinheiro pra pagar a hospedagem da AWS👍.
 # Mantendo o site
