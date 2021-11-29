@@ -12,3 +12,5 @@ Leia o "howtocontribute.md".
 Favicons por https://favicon.io/emoji-favicons/blue-book, e emojis do Twitter.
 # Atenções ao dar Fork no repositório
 Leia os comentários das páginas de HTML e troque os links.
+# Último atualizado em:
+Atualizado em 29/11/2021 às 18:12.
